@@ -1,0 +1,33 @@
+# data, caches, weights, and outputs are never committed
+*.cache_*.csv
+.cache_*.csv
+data/
+out_*/
+tracking_repo/
+*.zarr/
+*.geff/
+
+# model weights
+*.pt
+*.pth
+*.ckpt
+*.npz
+*.npy
+*.onnx
+
+# python
+__pycache__/
+*.pyc
+.pytest_cache/
+.ipynb_checkpoints/
+
+# logs and local state
+*.log
+*.out
+ops/state/
+scratch/
+scratchpad/
+
+# os
+.DS_Store
+Thumbs.db
