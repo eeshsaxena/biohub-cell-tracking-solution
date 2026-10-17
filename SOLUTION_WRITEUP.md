@@ -1,6 +1,6 @@
-# 303rd / Bronze: sub-voxel localization, a learned coordinate head, and a lot of dead ends
+# 287th / Bronze: sub-voxel localization, a learned coordinate head, and a lot of dead ends
 
-Bronze, 303 of 4017. Thanks to the organizers, and honestly this is built on other people's public notebooks
+Bronze, 287 of 3947 after the final leaderboard cleanup (303 of 4017 at close). Thanks to the organizers, and honestly this is built on other people's public notebooks
 more than on anything of mine. I want to be straight about what actually moved the score, because most of what
 I tried did nothing, and the failures are probably more useful to you than the two wins.
 

@@ -1,8 +1,8 @@
-# Biohub Cell Tracking During Development, bronze solution (303 / 4017)
+# Biohub Cell Tracking During Development, bronze solution (287 / 3947)
 
 My solution for the Kaggle competition
 [Biohub - Cell Tracking During Development](https://www.kaggle.com/competitions/biohub-cell-tracking-during-development),
-3D nuclei tracking in developing zebrafish. Final: **rank 303 of 4017, bronze medal.**
+3D nuclei tracking in developing zebrafish. Final: **rank 287 of 3947, bronze medal** (after Kaggle's final leaderboard cleanup; 303 of 4017 at close).
 
 The full writeup is in [SOLUTION_WRITEUP.md](SOLUTION_WRITEUP.md) (also posted on Kaggle).
 
